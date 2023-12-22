@@ -12,7 +12,7 @@ The AttributesSample application is a C# console application that demonstrates t
 
 To run the AttributesSample application, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/AttributesSample.git`
+1. Clone the repository: `git clone https://github.com/BorisMinin/AttributesSample.git`
 2. Open the solution in Visual Studio.
 3. Build the solution.
 4. Run the program.
